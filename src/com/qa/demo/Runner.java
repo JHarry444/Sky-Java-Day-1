@@ -1,20 +1,21 @@
 package com.qa.demo;
 
+
 public class Runner {
 
 
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-        byte b= 122;
+        byte b = 122;
         short s = 300;
 //        s = "test";
         int i = 2_000_000_000;
-        long  l = 999_999_999_999L;
+        long l = 999_999_999_999L;
 
         float f = 44.94F;
         double d = 999.999;
 
-        char c  = 'j';
+        char c = 'j';
 
         boolean bool = true;
 
